@@ -1,0 +1,16 @@
+[
+    { module:'hall',    path:'Scene/app.fire', type: 'res'},
+    { module:'hall',    path:'Script/App.ts', type: 'res'},
+    { module:'hall',	path:'Script/lib', type: 'folder' },
+    { module:'hall',	path:'Script/common', type: 'folder' },
+    { module:'hall',	path:'Script/hall', type: 'folder' },
+    { module:'101101',	path:'Script/101101', type: 'folder' },
+
+    { module:'hall',    path:'resources/00-common.bin', type: 'res'},
+    { module:'hall',	path:'resources/00-common_atlas0.png', type: 'res'},
+    { module:'hall',    path:'resources/01-hall.bin', type: 'res'},
+    { module:'hall',	path:'resources/01-hall_atlas0.png', type: 'res'},
+    { module:'101101',    path:'resources/02-fruit.bin', type: 'res'},
+    { module:'101101',	path:'resources/02-fruit_atlas0.png', type: 'res'},
+    { module:'101101',	path:'resources/02-fruit_atlas0_1.png', type: 'res'},
+]

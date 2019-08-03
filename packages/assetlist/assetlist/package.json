@@ -1,0 +1,22 @@
+{
+  "name": "assetlist",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/assetlist/open": {
+      "message": "assetlist:open"
+    },
+    "i18n:MAIN_MENU.package.title/assetlist/hello": {
+      "message": "assetlist:say-hello"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "assetlist",
+    "width": 400,
+    "height": 300
+  }
+}

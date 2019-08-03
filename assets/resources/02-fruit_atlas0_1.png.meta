@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "28634497-5965-49c0-bf93-c5c9747a7ddb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "02-fruit_atlas0_1": {
+      "ver": "1.0.3",
+      "uuid": "15be870d-74cf-4d92-880c-381729ff9cc7",
+      "rawTextureUuid": "28634497-5965-49c0-bf93-c5c9747a7ddb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": 17.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2036,
+      "height": 2013,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
